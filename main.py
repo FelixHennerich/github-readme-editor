@@ -14,8 +14,7 @@ readme_path = 'README.md'
 
 access_token = config['GitHub']['access_token']
 
-new_content = f"""
-<h1 align="center">Felix Hennerich<br></h1>
+new_content = f"""<h1 align="center">Felix Hennerich<br></h1>
 <br>
 <p align="center">Hi, whats up? 👋</p>
 
